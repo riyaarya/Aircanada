@@ -1,0 +1,3 @@
+dpath = /home/riya/geckodriver
+url = https://www.amazon.in/
+epath = /home/riya/eclipse-workspace/SeleniumCourse/TestData/test_amazon.xlsx
